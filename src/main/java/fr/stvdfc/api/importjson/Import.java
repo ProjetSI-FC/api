@@ -40,6 +40,7 @@ public class Import {
             for (int j = 0; j < resultArray.length(); j++) {
                 FileMetadataWithScore fileMetadata = getFileMetadataFromJSON(resultArray.getJSONObject(j));
                 hashMap.add(keywords, fileMetadata);
+
             }
         }
         return hashMap;
@@ -53,7 +54,6 @@ public class Import {
         }
         return keywords;
     }
-
     private static FileMetadataWithScore getFileMetadataFromJSON(JSONObject obj) {
         SimpleFileMetadataWithScore file = new SimpleFileMetadataWithScore();
         file.setScore(obj.getInt("score"));
@@ -64,3 +64,4 @@ public class Import {
         return file;
     }
 }
+
