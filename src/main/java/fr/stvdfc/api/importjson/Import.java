@@ -9,8 +9,6 @@ import java.util.TreeSet;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.json.JSONTokener;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
 import fr.stvdfc.api.interfaces.FileMetadataWithScore;
 import fr.stvdfc.api.models.KeywordSearchHashMap;
