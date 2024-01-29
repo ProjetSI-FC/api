@@ -1,1 +1,79 @@
-{"hashObject":[{"keywords":["EuroNation","Test"],"results":[{"score":5,"metadata":{"date":"16/01/2024"}},{"score":0,"metadata":{"chaine":"M6"}}]},{"keywords":["EuroNation","Macron","Test"],"results":[{"score":5,"metadata":{"date":"16/01/2024"}},{"score":0,"metadata":{"chaine":"M6"}}]}]}
+{
+  "hashObject": [
+    {
+      "keywords": [
+        "Macron",
+        "Lepen",
+        "politique"
+      ],
+      "results": [
+        {
+          "score": 4,
+          "metadata": {
+            "date": "20/04/2022",
+            "chaine": "M6",
+            "titre": "Débat Macron Lepen"
+          }
+        },
+        {
+          "score": 5,
+          "metadata": {
+            "date": "10/04/2022",
+            "chaine": "TF1",
+            "titre": "2nd Tour Macron/Lepen"
+          }
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "Élections",
+        "Assemblée Nationale",
+        "Campagne"
+      ],
+      "results": [
+        {
+          "score": 3,
+          "metadata": {
+            "date": "05/05/2022",
+            "chaine": "France 24",
+            "titre": "Débats Élections Législatives"
+          }
+        },
+        {
+          "score": 4,
+          "metadata": {
+            "date": "15/06/2022",
+            "chaine": "BFMTV",
+            "titre": "Analyses des Résultats Électoraux"
+          }
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "Société",
+        "Réformes",
+        "Débats publics"
+      ],
+      "results": [
+        {
+          "score": 5,
+          "metadata": {
+            "date": "22/07/2022",
+            "chaine": "France Culture",
+            "titre": "Table ronde sur les Réformes Sociétales"
+          }
+        },
+        {
+          "score": 3,
+          "metadata": {
+            "date": "10/08/2022",
+            "chaine": "CNews",
+            "titre": "Débat Public sur l'Éducation"
+          }
+        }
+      ]
+    }
+  ]
+}
